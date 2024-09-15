@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "凯子 博客",
+  title: "凯子的博客",
   description: "A VitePress Site",
   outDir:'docs',
   base: '/docs/',
@@ -40,7 +40,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/KaiTitan/docs' }
     ]
   }
 })
