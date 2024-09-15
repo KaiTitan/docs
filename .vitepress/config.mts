@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
+  title: "凯子 博客",
   description: "A VitePress Site",
   outDir:'docs',
   base: '/docs/',

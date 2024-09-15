@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "我的超棒项目"
-  text: "一个 VitePress 网站"
+  text: "一个 博客 网站"
   tagline: 凯子的笔记
   actions:
     - theme: brand
